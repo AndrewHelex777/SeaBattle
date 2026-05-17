@@ -40,3 +40,8 @@ void markMiss()
 {
 
 }
+
+void markHit()
+{
+
+}
