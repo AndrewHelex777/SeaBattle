@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+void placeShip()
+{
+
+}
+
 void hitPlayer1()
 {
 
