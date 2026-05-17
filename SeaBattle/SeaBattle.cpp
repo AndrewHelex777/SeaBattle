@@ -11,6 +11,11 @@ void randomFleet()
 
 }
 
+void fireShot()
+{
+
+}
+
 void hitPlayer1()
 {
 
