@@ -35,3 +35,8 @@ void checkHit()
 {
 
 }
+
+void markMiss()
+{
+
+}
