@@ -45,3 +45,8 @@ void markHit()
 {
 
 }
+
+void isShipSunk()
+{
+
+}
