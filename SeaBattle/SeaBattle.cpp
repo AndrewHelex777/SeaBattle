@@ -35,3 +35,28 @@ int main()
 {
     cout << "Hello World!\n";
 }
+
+void checkHit()
+{
+
+}
+
+void markMiss()
+{
+
+}
+
+void markHit()
+{
+
+}
+
+void isShipSunk()
+{
+
+}
+
+void displayBoard()
+{
+
+}
