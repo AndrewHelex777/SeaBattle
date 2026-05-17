@@ -6,6 +6,11 @@ void placeShip()
 
 }
 
+void randomFleet()
+{
+
+}
+
 void hitPlayer1()
 {
 
