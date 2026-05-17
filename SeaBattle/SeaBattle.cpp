@@ -75,3 +75,8 @@ void change()
 {
 
 }
+
+void charge()
+{
+
+}
