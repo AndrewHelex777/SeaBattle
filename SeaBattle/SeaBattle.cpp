@@ -31,6 +31,11 @@ void ship()
 
 }
 
+void newFunc()
+{
+
+}
+
 int main()
 {
     cout << "Hello World!\n";
