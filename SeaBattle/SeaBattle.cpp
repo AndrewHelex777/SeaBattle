@@ -65,3 +65,8 @@ void find()
 {
 
 }
+
+void check()
+{
+
+}
