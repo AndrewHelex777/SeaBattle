@@ -30,3 +30,8 @@ int main()
 {
     cout << "Hello World!\n";
 }
+
+void checkHit()
+{
+
+}
