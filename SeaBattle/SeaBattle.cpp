@@ -26,6 +26,11 @@ void hitPlayer2()
 
 }
 
+void ship()
+{
+
+}
+
 int main()
 {
     cout << "Hello World!\n";
